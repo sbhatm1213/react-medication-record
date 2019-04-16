@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background: #C1DDFB;
+}
+
+.top-80{
+  margin-top: 80px;
+}
+
+ul.nav-pills {
+    background: #C1DDFB;
+    padding: 20px;
+}
+
+ul li.nav-item {
+    border-radius: 5px;
+    background: #6AABDA;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.list-group-item.plain-list{
+  border: 0;
+  padding: 2px;
+}
+
+.bg-info {
+  background-color: #1B79B2 !important;
+  color: #ffffff !important;
+}
+
+.text-center {
+  margin: 0 auto;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  background-color: #1B79B2;
+  color: #ffffff;
+}
+
+.med-types , .med-names {
+  margin: auto;
+  text-align: center;
+}
+
+.page-heading {
+  text-align: center;
+}
+
+.btn-info{
+  border: #C1DDFB;
+  background-color: #C1DDFB;
+  color: #000000;
+}
+
+.btn-info:hover, .btn-info:focus, .btn-info.active{
+  background-color: #1B79B2 !important;
+  color: #ffffff;
+}
+
+.btn-info:hover{
+  font-weight: 500;
+}
+
+.nav{
+  display: block;
+}
+
+.nav-link:hover{
+  font-weight: 500;
+}
+
+a.active.nav-link:hover{
+  color: #ffffff;
+}
